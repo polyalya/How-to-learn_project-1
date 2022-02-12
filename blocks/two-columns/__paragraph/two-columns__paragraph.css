@@ -1,0 +1,13 @@
+.two-columns__paragraph { /*текст*/
+    line-height: 34px;
+    font-size: 24px;
+    font-weight: 400;
+    margin-bottom: 30px;
+    margin-top: 0;
+    color:#000000;
+  }
+  
+  .two-columns__paragraph:last-child {
+    margin-bottom: 0;
+    padding-bottom: 0;
+  }

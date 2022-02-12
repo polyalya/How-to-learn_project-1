@@ -1,0 +1,12 @@
+.footer__column-link { /*одиночная ссылка*/
+  color: #ffffff;
+  text-decoration: none;
+  transition: opacity .5s ease-out;
+  -moz-transition: opacity .5s ease-out;
+  -webkit-transition: opacity .5s ease-out;
+  -o-transition: opacity .5s ease-out;
+}
+
+.footer__column-link:hover {
+  opacity: .5;
+}

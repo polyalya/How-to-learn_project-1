@@ -1,0 +1,14 @@
+.header__link { /*Узнать*/
+    text-decoration: none;
+    color: #2f80ed;
+    z-index: 2;
+    opacity: 1;
+    transition: opacity .5s ease-out;
+    -moz-transition: opacity .5s ease-out;
+    -webkit-transition: opacity .5s ease-out;
+    -o-transition: opacity .5s ease-out;
+  }
+  
+  .header__link:hover{
+    opacity: .5;
+  }

@@ -1,0 +1,11 @@
+.section-subtitle { /*Про учёбу и мозг*/
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 0;
+    line-height: 34px;
+    font-size: 24px;
+    font-weight: 400;
+    z-index: 2;
+    color:#000000;
+  }
+  

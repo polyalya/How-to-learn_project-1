@@ -1,0 +1,5 @@
+.footer__column_content_copyright { /*блок для лого и имени*/
+    -ms-flex-preferred-size: 711px;
+    flex-basis: 711px;
+  }
+  
